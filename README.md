@@ -115,11 +115,7 @@ Bu uygulama sadece eğitim amaçlıdır. YouTube'un hizmet şartlarına uygun ol
 
 MIT License - Detaylar için `LICENSE` dosyasına bakın.
 
-## 🔗 Bağlantılar
 
-- [Demo](https://your-demo-link.com)
-- [Issues](https://github.com/[kullanici-adi]/youtube-mp3-downloader/issues)
-- [Discussions](https://github.com/[kullanici-adi]/youtube-mp3-downloader/discussions)
 
 ## 🎉 Ekran Görüntüleri
 
